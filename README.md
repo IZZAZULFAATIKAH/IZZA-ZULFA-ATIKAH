@@ -18,7 +18,7 @@
 | 9 | 01-10-2025 | 05 | StatefulWidget | [Modul 09](#) | [Program](https://github.com/IZZAZULFAATIKAH/Mobile_praktikum/tree/master/Modul%209) |
 | 10 | 08-10-2025 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/19GFbEMpYrzlOBhcwNeOEAD25IeDITwyC/view?usp=sharing) | [Program](https://github.com/IZZAZULFAATIKAH/Mobile_praktikum/tree/master/Modul%2010/gameapp) |
 | 11 | 15-10-2025 | 07 | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/1zEKBauXy-yOvpEiSHdlbvVeXekkQO87s/view?usp=sharing) | [Program](https://github.com/IZZAZULFAATIKAH/Mobile_praktikum/tree/master/Modul%2011/tasbih_11) |
-| 12 | 25-10-2025 | 08 | Ujian Tengah Semester | [UTS](#) | [Program](https://github.com/IZZAZULFAATIKAH/UTS-MOBILE-PROGRAMMING-PRAKTIKUM/tree/main) |
+| 12 | 25-10-2025 | 08 | Ujian Tengah Semester | [UTS](https://drive.google.com/file/d/16sd3eAWSaHkPU2noa0SYS0hRHPSOw308/view?usp=sharing) | [Program](https://github.com/IZZAZULFAATIKAH/UTS-MOBILE-PROGRAMMING-PRAKTIKUM/tree/main) |
 | 13 | 05-11-2025 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12](#) | [Program](#) |
 | 14 | 19-11-2025 | 10 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](#) | [Program](#) |
 | 15 | 11-12-2025 | 11 | Ujian Akhir Semester | [UAS](#) | [Program](#) |
